@@ -1,4 +1,4 @@
-#Rock Paper Scissor. 
+# Rock Paper Scissor. 
 ## Anders Larsen Datamatiker 1.semester.  
 Dette repository indeholder et udkast til hvordan et Rock Paper Scissor spil med GUI og persistese kunne se ud.
 
