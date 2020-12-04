@@ -1,4 +1,5 @@
 # Rock Paper Scissor. 
+![Start](https://raw.githubusercontent.com/Hjordrup/MiniGUIProjekt_Rock_Paper_Scissors/master/ScreenShots/StartSk%C3%A6rm.PNG)
 ## Anders Larsen Datamatiker 1.semester.  
 Dette repository indeholder et udkast til hvordan et Rock Paper Scissor spil med GUI og persistese kunne se ud.
 
