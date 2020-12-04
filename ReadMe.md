@@ -16,7 +16,7 @@ Det er muligt at gennem hvortil man er nået i spillet dette gennem spillerens o
 samt begges sidste valg af rolle.
 
 Gennem denne save og load funktion er det muligt at slukke programmet og vende tilbage senere og dermed ikke miste, 
-den fremgang man har lavet i spillet. 
+den fremgang man har lavet i spillet. Se. mappen ScreenShots for flere billedere. 
 
   
   
